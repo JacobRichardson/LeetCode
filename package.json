@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JacobRichardson/LeetCode/issues"
   },
-  "homepage": "https://github.com/JacobRichardson/LeetCode#readme"
+  "homepage": "https://github.com/JacobRichardson/LeetCode#readme",
+  "dependencies": {
+    "tape": "^4.11.0"
+  }
 }

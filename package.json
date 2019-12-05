@@ -1,0 +1,19 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "Solutions to LeetCode questions in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape ./src/**/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobRichardson/LeetCode.git"
+  },
+  "author": "Jacob Richardson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobRichardson/LeetCode/issues"
+  },
+  "homepage": "https://github.com/JacobRichardson/LeetCode#readme"
+}
